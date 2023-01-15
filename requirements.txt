@@ -1,4 +1,6 @@
 transformers==4.25.1
-numpy
+streamlit
+regex
 pandas
 tensorflow==2.5.0
+numpy==1.19.5
