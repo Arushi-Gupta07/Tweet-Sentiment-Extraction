@@ -84,4 +84,4 @@ choice = st.selectbox("Choose Sentiment", ("Positive", "Negative", "Neutral"))
 button = st.button('Predict')
 if button: 
     pred=predict(query, choice.lower())
-    st.markdown(pred)
+    st.markdown(f"Selected text : {pred}")
