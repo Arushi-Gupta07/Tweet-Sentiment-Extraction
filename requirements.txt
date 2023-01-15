@@ -1,0 +1,4 @@
+transformers==4.25.1
+numpy
+pandas
+tensorflow==2.5.0
