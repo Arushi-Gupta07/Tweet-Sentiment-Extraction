@@ -1,4 +1,4 @@
-!https://user-images.githubusercontent.com/57909909/168902321-760c3caf-864f-4f2c-b5ee-6199863df92f.gif
+https://user-images.githubusercontent.com/57909909/168902321-760c3caf-864f-4f2c-b5ee-6199863df92f.gif
 
 # Tweet-Sentiment-Extraction
 
