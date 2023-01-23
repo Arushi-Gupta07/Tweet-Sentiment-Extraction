@@ -1,6 +1,10 @@
 ![giphy (1)](https://user-images.githubusercontent.com/57909909/168902321-760c3caf-864f-4f2c-b5ee-6199863df92f.gif)
 
 # Tweet-Sentiment-Extraction
+With the evolution of social media and everyone sharing their opinion seach second, platforms like twitter have tons of data about the language. Twitter is one of those popular platforms where you can get lots of text data in the form of tweets. However, it’s really hard to tell whether the sentiment behind the specific tweet will impact the world related to the tweet. Capturing sentiment in these times is very important because it changes the whole dimensions and decisions that are to be made. But what words actually leads to the sentiment description? If we somehow find those words, then when a tweet is about to be tweeted, we can check for these words and remove these words as per our required sentiment. Hence, becomes essential to pick out the part of the tweet (word or phrase) that reflectsthe sentiment. Sentiment Analysis can be defined as the process of analyzing text data and categorizing them into Positive, Negative, or Neutral sentiments. 
+
+Sentiment Analysis is used in many cases like Social Media Monitoring, Customerservice, Brand Monitoring, political campaigns, etc. Analyzingcustomer feedback such as social media conversations, product reviews, and survey responses allows companies to understand the customer’s emotions better which is becoming more essential to meet their needs. Although, it is almost impossible to manually sort thousands of social media conversations, customer reviews, and surveys. So, to  solve  this
+problem let’s, explore the Kaggle dataset and use sentiment analysis to identify the emotion behind Twitter data. This problem is about constructing a model that will look at the labeled sentiment  for  a  given  tweet  and  figure  out  what  word  or  phrase/wordbest supports it.
 
 
 Problem Definition
